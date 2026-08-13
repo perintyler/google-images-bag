@@ -1,4 +1,4 @@
-# Google Images (Barry Pack)
+# Google Images (Barry bag)
 
 Search Google Images via the Serper API.
 
